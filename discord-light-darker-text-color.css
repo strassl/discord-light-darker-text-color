@@ -1,5 +1,11 @@
 @-moz-document domain("discordapp.com") {
+
 .message-group .comment .markup {
     color: #2C2D30;
 }
+
+.channel-textarea-inner textarea {
+    color: #2C2D30;
+}
+
 }
