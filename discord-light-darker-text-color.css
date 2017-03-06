@@ -1,0 +1,5 @@
+@-moz-document domain("discordapp.com") {
+.message-group .comment .markup {
+    color: #2C2D30;
+}
+}
